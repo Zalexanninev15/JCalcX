@@ -1,5 +1,5 @@
 # JCalcX
-## [Скачать последнюю версию](https://github.com/Zalexanninev15/JCalcX/releases/download/1.0/JCalcX.jar)
+## [Скачать последнюю версию](https://github.com/Zalexanninev15/JCalcX/releases/tag/1.0)
 ## Скриншот
 ![alt text](https://i.imgur.com/PGtiz3Q.jpg)
 ## Описание
