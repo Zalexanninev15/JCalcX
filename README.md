@@ -1,6 +1,6 @@
 # JCalcX
 ## [Скачать последнюю версию](https://github.com/Zalexanninev15/JCalcX/releases/download/1.0/JCalcX.jar)
-## Скриншоты
+## Скриншот
 ![alt text](https://i.imgur.com/PGtiz3Q.jpg)
 ## Описание
 Простой и красивый кроссплатформенный калькулятор.
