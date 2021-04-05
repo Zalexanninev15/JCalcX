@@ -1,7 +1,7 @@
 # JCalcX | [Последняя версия](https://github.com/Zalexanninev15/JCalcX/releases/tag/1.0)
 
-[![](https://img.shields.io/badge/platform-windows-blue.svg)](https://github.com/Zalexanninev15/JCalcX)
-[![](https://img.shields.io/badge/platform-linux-orange.svg)](https://github.com/Zalexanninev15/JCalcX)
+[![](https://img.shields.io/badge/platform-Windows-blue.svg)](https://github.com/Zalexanninev15/JCalcX)
+[![](https://img.shields.io/badge/platform-Linux-orange.svg)](https://github.com/Zalexanninev15/JCalcX)
 [![](https://img.shields.io/github/v/release/Zalexanninev15/JCalcX)](https://github.com/Zalexanninev15/JCalcX/releases/latest)
 [![](https://img.shields.io/github/downloads/Zalexanninev15/JCalcX/total.svg)](https://github.com/Zalexanninev15/JCalcX/releases)
 [![](https://img.shields.io/badge/license-GPLv3-green.svg)](LICENSE)
