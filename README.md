@@ -1,5 +1,11 @@
-# JCalcX
-## [Скачать последнюю версию](https://github.com/Zalexanninev15/JCalcX/releases/tag/1.0)
+# JCalcX | [Последняя версия](https://github.com/Zalexanninev15/JCalcX/releases/tag/1.0)
+
+[![](https://img.shields.io/badge/platform-windows-blue.svg)](https://github.com/Zalexanninev15/JCalcX)
+[![](https://img.shields.io/badge/platform-linux-orange.svg)](https://github.com/Zalexanninev15/JCalcX)
+[![](https://img.shields.io/github/v/release/Zalexanninev15/JCalcX)](https://github.com/Zalexanninev15/JCalcX/releases/latest)
+[![](https://img.shields.io/github/downloads/Zalexanninev15/JCalcX/total.svg)](https://github.com/Zalexanninev15/JCalcX/releases)
+[![](https://img.shields.io/badge/license-GPLv3-green.svg)](LICENSE)
+
 ## Скриншот
 ![alt text](https://i.imgur.com/PGtiz3Q.jpg)
 ## Описание
@@ -10,7 +16,7 @@
 * Хороший дизайн
 
 ## Системные требования
-* Операционная система: Windows (7/8/8.1/10), Linux, MacOS X
+* Операционная система: Windows (7/8/8.1/10), Linux
 * Минимальное количество оперативной памяти: 50 МБ
 * Дополнительно: Java 8 (для ревизии "JCalcX_Windows_With_JRE" - необязательно) 
 
