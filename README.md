@@ -1,10 +1,12 @@
 # JCalcX | [Последняя версия](https://github.com/Zalexanninev15/JCalcX/releases/tag/1.0)
 
-[![](https://img.shields.io/badge/platform-Windows-blue.svg)](https://github.com/Zalexanninev15/JCalcX)
-[![](https://img.shields.io/badge/platform-Linux-orange.svg)](https://github.com/Zalexanninev15/JCalcX)
+[![](https://img.shields.io/badge/OS-Windows-informational?logo=windows)](https://github.com/Zalexanninev15/JCalcX)
+[![](https://img.shields.io/badge/OS-Linux-orange?logo=linux)](https://github.com/Zalexanninev15/JCalcX)
 [![](https://img.shields.io/github/v/release/Zalexanninev15/JCalcX)](https://github.com/Zalexanninev15/JCalcX/releases/latest)
 [![](https://img.shields.io/github/downloads/Zalexanninev15/JCalcX/total.svg)](https://github.com/Zalexanninev15/JCalcX/releases)
 [![](https://img.shields.io/badge/license-GPLv3-green.svg)](LICENSE)
+[![](https://img.shields.io/badge/donate-QIWI-FF8C00.svg)](https://qiwi.com/n/ZALEXANNINEV15)
+[![](https://img.shields.io/badge/donate-YooMoney-8B3FFD.svg)](https://yoomoney.ru/to/410015106319420)
 
 ## Скриншот
 ![alt text](https://i.imgur.com/PGtiz3Q.jpg)
