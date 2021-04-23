@@ -7,6 +7,7 @@
 [![](https://img.shields.io/badge/license-GPLv3-green.svg)](LICENSE)
 [![](https://img.shields.io/badge/donate-QIWI-FF8C00.svg)](https://qiwi.com/n/ZALEXANNINEV15)
 [![](https://img.shields.io/badge/donate-YooMoney-8B3FFD.svg)](https://yoomoney.ru/to/410015106319420)
+[![](https://img.shields.io/badge/DevelHub-JCalcX-blue)](https://hub.develnext.org/project/JdJoHCAPCmwu)
 
 ## Скриншот
 ![alt text](https://i.imgur.com/PGtiz3Q.jpg)
@@ -29,5 +30,3 @@
 4. Собираем проект 
 5. Выбираем "Открыть папку", копируем полученный файл и закрываем DevelNext
 6. Запускаем и радуемся!
-
-### Альтернативная ссылка на исходный код лаунчера: https://hub.develnext.org/project/JdJoHCAPCmwu
