@@ -1,4 +1,4 @@
-# JCalcX | [Последняя версия](https://github.com/Zalexanninev15/JCalcX/releases/tag/1.0)
+# JCalcX | [Последняя версия](https://github.com/Zalexanninev15/JCalcX/releases/latest)
 
 [![](https://img.shields.io/badge/OS-Windows-informational?logo=windows)](https://github.com/Zalexanninev15/JCalcX)
 [![](https://img.shields.io/badge/OS-Linux-orange?logo=linux)](https://github.com/Zalexanninev15/JCalcX)
