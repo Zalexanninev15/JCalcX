@@ -4,6 +4,7 @@
 [![](https://img.shields.io/badge/OS-Linux-orange?logo=linux)](https://github.com/Zalexanninev15/JCalcX)
 [![](https://img.shields.io/github/v/release/Zalexanninev15/JCalcX)](https://github.com/Zalexanninev15/JCalcX/releases/latest)
 [![](https://img.shields.io/github/downloads/Zalexanninev15/JCalcX/total.svg)](https://github.com/Zalexanninev15/JCalcX/releases)
+[![](https://img.shields.io/github/last-commit/Zalexanninev15/JCalcX)](https://github.com/Zalexanninev15/JCalcX/commits/master)
 [![](https://img.shields.io/badge/license-GPLv3-green.svg)](LICENSE)
 [![](https://img.shields.io/badge/donate-QIWI-FF8C00.svg)](https://qiwi.com/n/ZALEXANNINEV15)
 [![](https://img.shields.io/badge/donate-YooMoney-8B3FFD.svg)](https://yoomoney.ru/to/410015106319420)
