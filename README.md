@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/last-commit/Zalexanninev15/JCalcX)](https://github.com/Zalexanninev15/JCalcX/commits/master)
 [![](https://img.shields.io/badge/license-GPLv3-ligthgreen.svg)](LICENSE)
 [![](https://img.shields.io/badge/DevelHub-JCalcX-blue)](https://hub.develnext.org/project/JdJoHCAPCmwu)
-[![](https://img.shields.io/badge/donate-Buy_Me_a_Coffee-F94400.svg)](https://zalexanninev15.jimdofree.com/buy-me-a-coffee)
+[![](https://img.shields.io/badge/Donate-FFDD00.svg?logo=buymeacoffee&logoColor=black)](https://z15.neocities.org/donate)
 
 ## Скриншот
 ![alt text](https://i.imgur.com/PGtiz3Q.jpg)
