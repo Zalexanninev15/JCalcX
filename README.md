@@ -16,7 +16,7 @@
 
 ## Скриншот
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/MNP1WQ1/PGtiz3Q.jpg" alt="PGtiz3Q" border="0"></a>
+![alt](https://i.ibb.co/MNP1WQ1/PGtiz3Q.jpg)
 
 ## Описание
 
